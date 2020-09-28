@@ -30,10 +30,10 @@ literal constants,
 computed constants,
 
 batch program,
-interactive program:
+{interactive program:
   event,
   event-driven program,
-  event handlers,
+  event handlers}
 
 data definitions,
 function's signature,
