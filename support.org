@@ -2,51 +2,51 @@
 * I Fixed-size data
 ** 1-4
 *** Keys
-function definition
-function application
-conditional expression
-constant definition
-magic numbers
+function definition,
+function application,
+conditional expression,
+constant definition,
+magic numbers,
 
-atomic data
-primitive operation
-anchor point
-if
-sub-expression
-argument
-unary function
-binary function
-ternary function
-function body
-function header
-comparison primitives
-main function
-functions composition
-auxiliary (helper) functions
-global variable
-constant definition
-right-hand side
-literal constants
-computed constants
+atomic data,
+primitive operation,
+anchor point,
+if,
+sub-expression,
+argument,
+unary function,
+binary function,
+ternary function,
+function body,
+function header,
+comparison primitives,
+main function,
+functions composition,
+auxiliary (helper) functions,
+global variable,
+constant definition,
+right-hand side,
+literal constants,
+computed constants,
 
-batch program
-interactive program
-  event
-  event-driven program
-  event handlers
+batch program,
+interactive program:
+  event,
+  event-driven program,
+  event handlers,
 
-data definitions
-function's signature
-purpose statement
-function's header (stub)
-functional examples
-template
-inventory
-wish list
-domain knowledge
-unit testing
+data definitions,
+function's signature,
+purpose statement,
+function's header (stub),
+functional examples,
+template,
+inventory,
+wish list,
+domain knowledge,
+unit testing,
 
-final state
+final state,
 *** Notes
 - Repl can display images.
 - To load image use 'bitmap' or 'bitmap-url' function.
